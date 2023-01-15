@@ -1,0 +1,123 @@
+ <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="./css/style.css">
+        <script>
+            function reload() {
+                location.reload
+            }
+            window.onload = setInterval('reload', 360000);
+        </script>
+    </head>
+    <body>
+        <div id="container">
+        <h1 style="margin-bottom: 0; margin-left:80px;">Dashboard :)</h1>
+        <div id="flexer">
+            <div id="fleche">&#8404;</div> 
+            <h2 id="test">Here a daily picture from the Nasa!</h2>
+        </div>
+      
+        <div class="upperBloc">
+            <div class="timeLeft">
+                <div class="timeInfos">
+                    <h2 id="time"></h2> 
+                    <h2 id="day"></h2>
+                    <h2 id="date"></h2>
+                </div>
+    
+                <div class="weather">
+                    <h2 id="temp"><%=temperature%> °C</h2> 
+                    <h2 id="airQTitle">Air quality</h2> 
+                    <div id="airQNb"><%=airQualityTemplate%> <%=uniteMesureTemplate%></div>
+                </div>
+            </div>
+          
+    
+            <div class="pictureOfTheDay">
+                <!-- <h2>Astronomy Picture of the day</h2> -->
+                <div class="pictureOfTheDayBloc">
+                    <img src="<%=urlNasa %>" alt="">
+                    <div id="descriptionNasa"><strong><%=nasaTitre%><br/></strong><%=nasaDescription%></div>                    
+                </div>
+            </div>
+        </div>
+    
+        <div class="actus">
+            <div class="allNews">  
+                <table class="news">
+                    <h2 id="latestNews">Latest news</h2>
+                    <%for(let i = 0; i < 3; i++){ %>
+                        <tr class="newsContent">
+                            <td><a target="_blank" href="<%= items[i].link[0] %>"><img src="<%= items[i]['media:content'][0].$.url %>" alt="" width="100px" height="auto"></a></td>
+                            <td><a target="_blank" href="<%= items[i].link[0] %>"><strong><%=items[i].title[0] %></strong><br/><%= items[i].description[0] %></a></td>
+                        </tr>
+                    <% }; %>
+                </table> 
+            </div>
+         
+            <div class="allTrains">               
+                <table>
+                    <h2>Brussels-North Trains</h2>
+                    <th>Station</th>
+                    <th>Departure </th>
+                    <th>Plateform</th>
+                    <% iRail.forEach(function(departure) { %>
+                        <tr>
+                            <td><%= departure.stationinfo.name %></td>
+                            <td><%= String(new Date(departure.time*1000).getHours()).padStart(2,"0") %>:<%= String(new Date(departure.time*1000).getMinutes()).padStart(2,"0") %></td>
+                            <td><%= departure.platform %></td>
+                        </tr>
+                        <% }); %>
+                </table>
+      
+            </div>
+
+            <div class="bourse">
+                <table>
+                    <h2>Float rates</h2>
+                    <tr>
+                        <td class="symbol">$</td>
+                        <td class="rateName"> USD </td>
+                        <td class="rate"><%=rateTemplateUSD%> $</td>
+                        <td class="rateDate"><%=rateTimeTemplateUSD%> </td>
+                    </tr>
+
+                    <tr>
+                        <td class="symbol">&#163;</td>
+                        <td class="rateName"> GBP </td>
+                        <td class="rate"><%=rateTemplateGBP%> &#163;</td>
+                        <td class="rateDate"><%=rateTimeTemplateGBP%></td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="symbol">&#36;</td>
+                        <td class="rateName"> CAD</td>
+                        <td class="rate"><%=rateTemplateCAD%> $</td>
+                        <td class="rateDate"><%=rateTimeTemplateCAD%> </td>
+                    </tr>
+                    
+                    <tr>
+                        <td class="symbol">¥</td>
+                        <td class="rateName">JPY</td>
+                        <td class="rate"><%=rateTemplateJPY%> ¥</td>
+                        <td class="rateDate"><%=rateTimeTemplateJPY%> </td>
+                    </tr>
+
+                    <tr>
+                        <td class="symbol">﷼</td>
+                        <td class="rateName"> SAR </td>
+                        <td class="rate"><%=rateTemplateSAR%> ﷼</td>
+                        <td class="rateDate"><%=rateTimeTemplateSAR%> </td>
+                    </tr>
+                </table>
+            </div>
+        </div> 
+        <script src="./scripts/script.js"></script>
+    </body>
+    </html>
+</body>
+</html>

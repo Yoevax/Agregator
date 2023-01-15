@@ -1,0 +1,275 @@
+@font-face {
+    font-family: 'GoogleSans';
+    src: url("/font/ProductSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'GoogleSansBold';
+    src: url("/font/Apercu\ Bold.otf");
+}
+
+body{
+    font-family: "GoogleSans";
+    background-image: url("/img/bg.jpeg");
+    margin-top: 5vh;
+}
+
+::-webkit-scrollbar {
+    width: 7px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+a{
+    text-decoration: none;
+    color: black;
+}
+#test{
+    text-align: right;
+    font-size: 0.8rem;
+    padding: 0;
+    margin: 0;
+}
+.upperBloc{
+    width: 100%;
+    margin: 0 ;
+}
+#flexer{
+    display: flex;
+    justify-content: right;
+}
+
+#fleche{
+    font-size: 2.5rem;
+    margin-right: 20px;
+    rotate: -20deg;
+}
+.upperBloc, .timeLeft, .actus{
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 4vh;
+    margin-left: 0px;
+    text-align: center;
+    width: 100%;
+}
+@media(max-width:768px){
+    .upperBloc, .timeLeft, .actus{
+        flex-direction: column;
+    }
+    .timeInfos, .weather{
+        width: 50vw;
+    }
+    .pictureOfTheDay img{
+        width: 100vw;
+    }
+}
+.timeLeft{
+    display: flex;
+    background-color:rgba(255, 255, 255, 0.209);
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 3.9vh;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    width: 40%;
+}
+
+.actus{
+    background-color:rgba(255, 255, 255, 0.209);
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2vw;
+    width: 95%;
+    height: 42.4vh;
+}
+
+.timeInfos, .weather{
+    width: 14vw;
+    height: 25vh;
+    text-align: center;
+    background-color:rgba(255, 255, 255, 0.209);
+    border-radius: 20px;
+    font-size: 1.3rem;
+    margin: 2vh ;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+#time{
+    font-size: 3.4rem;
+    margin-bottom: 0px;
+    margin-top: 7vh;
+}
+#date{
+    font-size: 1rem;
+}
+#day{
+    font-size:  1rem;
+}
+#temp{
+    font-size: 3.4rem;
+    margin-bottom: 0px;
+    margin-top: 7vh;
+    text-align: center;
+}
+
+#airQTitle{
+    font-size:  1rem;
+}
+
+#airQNB{
+    font-size:  1.2rem;
+}
+.imgDay{
+    padding: 0;
+    margin-top: 3.9vh;
+}
+.pictureOfTheDay img{
+    width: 20vw;
+    height: auto;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 0;
+    
+}
+.pictureOfTheDayBloc{
+    display: flex;
+}
+
+.pictureOfTheDay h2{
+    font-size: 1.4rem;
+    margin: 0;
+    margin-top: 3px;
+    padding-bottom: 5px;
+    text-align: left;
+}
+
+#descriptionNasa{
+    width: 300px;
+    font-size: 0.8rem;
+    text-align: left;
+    padding: 20px;border-left: 1px solid black;
+}
+.news{
+    width: 30vw;
+    text-align: left;
+    background-color:rgba(255, 255, 255, 0.209);
+    border-radius: 20px;
+    height: 30vh;
+
+}
+
+@media (max-width:768px) {
+    .news{
+        width: 50vw;
+    }
+}
+#latestNews{
+   margin: 0;
+   padding-bottom: 1vh ;
+   text-align: left;
+}
+.newsContent{
+    background-color: rgba(173, 182, 186, 0.136);
+    padding: 15px;
+    font-size: 0.8rem;
+    border-bottom: 1px solid black;
+}
+
+.newsContent:hover{
+    background-color: rgba(156, 156, 156, 0.138);
+}
+.allTrains tr:hover, .bourse tr:hover{
+    background-color: rgba(156, 156, 156, 0.138);
+}
+.allNews{
+    margin: 15px;
+    height: 35vh;
+    margin-right: 2vw;
+}
+.allNews img{
+    width: 90px;
+    height: auto;
+    margin-right: 10px;
+
+}
+
+.allTrains{
+    background-color:rgba(179, 231, 248, 0.209);
+    border-radius: 20px;
+    overflow: scroll;
+    overflow-x : hidden;
+    padding: 2vh 3vw 2vh 3vw; 
+    height: 30vh;
+    margin-top: 2vh;
+    margin-right: 2vw;
+}
+
+.allTrains tr{
+    height: 4vh;
+
+}
+th{
+    font-size: 1rem;
+}
+
+.allTrains h2, th{
+    text-align: left;
+    padding-top: 0;
+    margin-top: 0;
+}
+.allTrains th{
+    font-size: 0.9rem;
+    padding-right: 15px;
+}
+.rates{
+    display: flex;
+    padding-bottom: 10px;
+}
+.bourse{
+    margin-top: 2vh;
+    background-color:rgba(194, 250, 164, 0.209);
+    border-radius: 20px;
+    width: 20vw;
+    text-align: left;
+    font-size: 1rem;
+    margin-right: 2vw;
+    height: 35vh;
+}
+.bourse h2{
+    margin: 0;
+    padding: 2vh 1vw 0.8vh 2vw;
+}
+
+.bourse table{
+    margin: 1vh 2vw 2vh 2vw;
+}
+.bourse tr{
+    height: 5vh;
+}
+table{
+    border-collapse: collapse;
+}
+
+td{
+    text-align: left;
+    background-color: rgba(173, 182, 186, 0.136);
+    padding: 5px;
+    font-size: 0.8rem;
+    border-bottom: 1px solid black;
+}

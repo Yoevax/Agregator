@@ -1,0 +1,975 @@
+{
+    "rss": {
+        "$": {
+            "version": "2.0",
+            "xmlns:atom": "http://www.w3.org/2005/Atom",
+            "xmlns:media": "http://search.yahoo.com/mrss/",
+            "xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+        },
+        "channel": [
+            {
+                "title": [
+                    "International : Toute l’actualité sur Le Monde.fr."
+                ],
+                "description": [
+                    "International  - Découvrez gratuitement tous les articles, les vidéos et les infographies de la rubrique International sur Le Monde.fr."
+                ],
+                "copyright": [
+                    "Le Monde - L’utilisation des flux RSS du Monde.fr est réservée à un usage strictement personnel, non professionnel et non collectif. Toute autre exploitation doit faire l’objet d’une autorisation et donner lieu au versement d’une rémunération. Contact : droitsdauteur@lemonde.fr"
+                ],
+                "link": [
+                    "https://www.lemonde.fr/international/rss_full.xml"
+                ],
+                "pubDate": [
+                    "Thu, 22 Dec 2022 15:09:37 +0000"
+                ],
+                "language": [
+                    "fr"
+                ],
+                "atom:link": [
+                    {
+                        "$": {
+                            "href": "https://www.lemonde.fr/international/rss_full.xml",
+                            "rel": "self",
+                            "type": "application/rss+xml"
+                        }
+                    }
+                ],
+                "item": [
+                    {
+                        "title": [
+                            "Les députés espagnols adoptent une loi autorisant le choix du genre dès 16 ans"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 16:07:48 +0100"
+                        ],
+                        "description": [
+                            "Si, comme prévu, le Sénat l’adopte définitivement dans les prochaines semaines, ce texte autorisera l’autodétermination du genre par une simple déclaration administrative."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/international/article/2022/12/22/les-deputes-espagnols-adoptent-une-loi-autorisant-le-choix-du-genre-des-16-ans_6155414_3210.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/international/article/2022/12/22/les-deputes-espagnols-adoptent-une-loi-autorisant-le-choix-du-genre-des-16-ans_6155414_3210.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/32/0/2893/1446/644/322/60/0/7ecd501_5066489-01-06.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Des militants LGBTQ après le vote des députés espagnols en faveur d’une « loi transgenre », le 22 décembre à Madrid.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "THOMAS COEX / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Elon Musk, sauveur inespéré des complotistes sur Twitter"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 16:00:12 +0100"
+                        ],
+                        "description": [
+                            "Le nouveau patron de Twitter a libéré la parole paranoïaque, que ce soit en débloquant les comptes d’influenceurs conspirationnistes ou en promouvant lui-même leurs thèses."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/les-decodeurs/article/2022/12/22/elon-musk-sauveur-inespere-des-complotistes-sur-twitter_6155413_4355770.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/les-decodeurs/article/2022/12/22/elon-musk-sauveur-inespere-des-complotistes-sur-twitter_6155413_4355770.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/16/80/0/4626/2313/644/322/60/0/aedcccd_31690c9312194fb9af749468f159787d-0-882eebddae3844c7a28f3ada577c0024.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le patron de Tesla et SpaceX, Elon Musk, est perçu comme un libérateur pour de nombreux comptes conspirationnistes, depuis qu’il a libéré la parole des plus radicaux sur Twitter.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Susan Walsh / AP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Guerre en Ukraine en direct : « L’armée américaine n’est pas engagée directement dans les combats »"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 15:45:05 +0100"
+                        ],
+                        "description": [
+                            "Volodymyr Zelensky s’est rendu, mercredi, à Washington. C’est la première fois qu’il quittait son pays depuis le début de la guerre en Ukraine. Piotr Smolar, notre correspondant à Washington, répond à vos questions sur cette visite historique."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/international/live/2022/12/22/guerre-en-ukraine-en-direct-apres-la-visite-de-volodymyr-zelensky-a-washington-posez-vos-questions-a-notre-journaliste_6155359_3210.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/international/live/2022/12/22/guerre-en-ukraine-en-direct-apres-la-visite-de-volodymyr-zelensky-a-washington-posez-vos-questions-a-notre-journaliste_6155359_3210.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/688/0/8256/4128/644/322/60/0/f497034_5065031-01-06.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:credit": [
+                                    {
+                                        "_": "JIM WATSON / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Après dix-neuf ans dans les geôles de Katmandou, au Népal, le « serpent » va être libéré"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 15:17:40 +0100"
+                        ],
+                        "description": [
+                            "Popularisé par une série diffusée sur Netflix, le tueur en série français a écumé les routes d’Asie pour détrousser et tuer des jeunes routards dans les années 1970."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/international/article/2022/12/22/apres-dix-neuf-ans-dans-les-geoles-de-katmandou-le-serpent-va-etre-libere_6155408_3210.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/international/article/2022/12/22/apres-dix-neuf-ans-dans-les-geoles-de-katmandou-le-serpent-va-etre-libere_6155408_3210.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/21/0/0/5910/2955/644/322/60/0/1c284d9_5060220-01-06.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Sur cette photo d’archive, le tueur en série français Charles Sobhraj est escorté par la police népalaise jusqu’à un véhicule après une audience. A Bhaktapur, au Népal, le 12 juin 2014. ",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "PRAKASH MATHEMA / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "« Les régions cultivants la pomme de terre voient le nombre de batailles au cours des guerres diminuer »"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 15:00:12 +0100"
+                        ],
+                        "description": [
+                            "L’introduction de la patate en Europe au XVIIᵉ siècle a limité les guerres dans les régions concernées, rapporte Pauline Grosjean dans sa chronique, qui interroge les conséquences de la guerre en Ukraine sur l’insécurité alimentaire en Afrique."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/idees/article/2022/12/22/les-regions-cultivants-la-pomme-de-terre-voient-le-nombre-de-batailles-au-cours-des-guerres-diminuer_6155407_3232.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/idees/article/2022/12/22/les-regions-cultivants-la-pomme-de-terre-voient-le-nombre-de-batailles-au-cours-des-guerres-diminuer_6155407_3232.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/02/599/0/6738/3369/644/322/60/0/c8234f5_560e1fad9016483c962ac9889be00d3a-1-9ce0b6acceeb48b48d20cead6fa92731.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Un homme retourne le sol avant de planter des pommes de terre, à Cconchaccota au Pérou en novembre 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Guadalupe Pardo / AP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "« Je peux former un gouvernement » : en Israël, Benyamin Nétanyahou réussit de justesse à former un cabinet"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 13:55:33 +0100"
+                        ],
+                        "description": [
+                            "Le premier ministre désigné a appelé le président israélien vingt minutes avant l’échéance fixée pour arriver à un accord gouvernemental de coalition."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/videos/video/2022/12/22/je-peux-former-un-gouvernement-en-israel-benyamin-netanyahou-reussit-de-justesse-a-former-un-cabinet_6155405_1669088.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/videos/video/2022/12/22/je-peux-former-un-gouvernement-en-israel-benyamin-netanyahou-reussit-de-justesse-a-former-un-cabinet_6155405_1669088.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/604/0/5128/2564/644/322/60/0/2176125_1671711948179-000-334y7wf.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le premier ministre a appelé le président israélien vingt minutes avant l’échéance fixée pour arriver à un accord gouvernemental de coalition.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "MENAHEM KAHANA / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Au Royaume-Uni, l’épuisement et la colère des personnels de santé"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 12:00:15 +0100"
+                        ],
+                        "description": [
+                            "Face au sous-investissement dans les hôpitaux publics, infirmiers et ambulanciers sont prêts à un conflit social dur et prolongé, tandis que le gouvernement conservateur de Rishi Sunak continue à faire la sourde oreille."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/international/article/2022/12/22/au-royaume-uni-l-epuisement-et-la-colere-des-personnels-de-sante_6155397_3210.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/international/article/2022/12/22/au-royaume-uni-l-epuisement-et-la-colere-des-personnels-de-sante_6155397_3210.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/1145/0/7606/3803/644/322/60/0/0b862ba_1671673728345-088495.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Des infirmières manifestent devant le St Thomas’ Hospital, à Londres, jeudi 15 décembre 2022. ",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Kin Cheung / AP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Le dispositif de prêts aux entreprises prolongé jusqu’à la fin de 2023"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 11:55:34 +0100"
+                        ],
+                        "description": [
+                            "Sa prolongation vise à soutenir les sociétés fragilisées par la guerre lancée par la Russie contre l’Ukraine."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/economie/article/2022/12/22/le-dispositif-de-prets-aux-entreprises-prolonge-jusqu-a-la-fin-de-2023_6155394_3234.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/economie/article/2022/12/22/le-dispositif-de-prets-aux-entreprises-prolonge-jusqu-a-la-fin-de-2023_6155394_3234.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/163/0/5000/2500/644/322/60/0/da67913_1671705635042-448903.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le ministre de l’économie et des finances, Bruno Le Maire, prononce un discours à la centrale nucléaire de Penly, à Petit-Caux, sur les côtes de la Manche, le 9 décembre 2022. ",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "LOU BENOIST / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Ukraine : pour Zelensky, gagner la guerre des symboles"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 11:36:05 +0100"
+                        ],
+                        "description": [
+                            "Editorial du « Monde ». En se rendant à Washington, le président ukrainien voulait remercier les Etats-Unis. Il se montrera probablement soucieux de rendre le même hommage à ses alliés européens."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/idees/article/2022/12/22/ukraine-pour-zelensky-gagner-la-guerre-des-symboles_6155392_3232.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/idees/article/2022/12/22/ukraine-pour-zelensky-gagner-la-guerre-des-symboles_6155392_3232.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/650/0/7806/3903/644/322/60/0/1900bc7_5065326-01-06.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le président ukrainien, Volodymyr Zelensky, remet un drapeau national ukrainien à la présidente de la Chambre des représentants des États-Unis, Nancy Pelosi (à droite), sous le regard de la vice-présidente américaine Kamala Harris, lors de son discours devant le Congrès américain au Capitole, à Washington, DC, le 21 décembre 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "MANDEL NGAN / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Nouvelle crise migratoire à Bruxelles, où près de 2 000 hommes, femmes et enfants dorment dans la rue en hiver"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 11:10:46 +0100"
+                        ],
+                        "description": [
+                            "Selon des ONG, ces exilés survivent dans de petites tentes ou sur des cartons, dans les couloirs des gares ou près du marché de Noël."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/international/article/2022/12/22/a-bruxelles-une-nouvelle-crise-migratoire_6155391_3210.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/international/article/2022/12/22/a-bruxelles-une-nouvelle-crise-migratoire_6155391_3210.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/21/500/0/6000/3000/644/322/60/0/8f7a8f0_1671630717889-2022-06-07t221244z-1570426681-mt1sipa000iw9znd-rtrmadp-3-sipa-usa.JPG",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "A Bruxelles, le 8 juin 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Teun Voeten/Sipa USA via Reuters",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Les femmes n’ont désormais plus le droit d’aller à l’université en Afghanistan"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 11:07:20 +0100"
+                        ],
+                        "description": [
+                            "Le gouvernement taliban a interdit « immédiatement » aux établissements d’accueillir des étudiantes."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/international/article/2022/12/22/en-afghanistan-les-femmes-ne-peuvent-plus-etudier-a-l-universite_6155390_3210.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/international/article/2022/12/22/en-afghanistan-les-femmes-ne-peuvent-plus-etudier-a-l-universite_6155390_3210.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/217/0/2613/1306/644/322/60/0/17844ea_1671672355977-000-334x4xr.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le personnel de sécurité refuse de laisser entrer les étudiantes à l’université de Kaboul, mercredi 21 décembre",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "WAKIL KOHSAR / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Vladimir Poutine promet à ses généraux un financement illimité"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 11:00:36 +0100"
+                        ],
+                        "description": [
+                            "Au cours d’une réunion avec les chefs de son armée, diffusée à la télévision, le président russe a évoqué les objectifs de l’année à venir."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/international/article/2022/12/22/vladimir-poutine-promet-a-ses-generaux-un-financement-illimite_6155389_3210.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/international/article/2022/12/22/vladimir-poutine-promet-a-ses-generaux-un-financement-illimite_6155389_3210.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/500/0/6000/3000/644/322/60/0/342f496_1671688280532-102626.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le président russe, Vladimir Poutine, et le chef d’état-major général des forces armées russes, le général Valeri Guerassimov, à Moscou, le 21 décembre 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Mikhail Kuravlev / AP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "« Le “Qatargate” a été rendu possible par les lacunes des règles actuelles en matière de transparence et d’éthique »"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 11:00:14 +0100"
+                        ],
+                        "description": [
+                            "Dans une tribune au « Monde », Hans van Scharen et Pascoe Sabido, membres du Corporate Europe Observatory, une ONG qui travaille sur l’influence des lobbys sur les politiques européennes, appellent l’UE à mettre un terme au lobbying des régimes répressifs."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/idees/article/2022/12/22/le-qatargate-a-ete-rendu-possible-par-les-lacunes-des-regles-actuelles-en-matiere-de-transparence-et-d-ethique_6155388_3232.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/idees/article/2022/12/22/le-qatargate-a-ete-rendu-possible-par-les-lacunes-des-regles-actuelles-en-matiere-de-transparence-et-d-ethique_6155388_3232.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/14/784/0/2362/1181/644/322/60/0/0cd8f62_5004570-01-06.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Montage de la police fédérale belge, le 14 décembre 2022, montrant des saisies d’argent dans le cadre de l’affaire « Qatargate ». ",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "HANDOUT / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "En Israël, Benyamin Nétanyahou à la tête du gouvernement le plus à droite de l’histoire du pays"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 10:51:40 +0100"
+                        ],
+                        "description": [
+                            "Le premier ministre a été contraint de faire d’importantes concessions à ses alliés d’extrême droite, notamment le suprémaciste juif Itamar Ben Gvir."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/international/article/2022/12/22/en-israel-benyamin-netanyahou-est-a-la-tete-du-gouvernement-le-plus-a-droite-de-l-histoire-de-l-histoire-du-pays_6155386_3210.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/international/article/2022/12/22/en-israel-benyamin-netanyahou-est-a-la-tete-du-gouvernement-le-plus-a-droite-de-l-histoire-de-l-histoire-du-pays_6155386_3210.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/440/0/4255/2127/644/322/60/0/925eb41_1671703114757-000-334y7wa.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le premier ministre israélien, Benyamin Nétanyahou, à la Knesset, à Jérusalem, le 12 décembre 2022.\r\n",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "GIL COHEN-MAGEN / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "En Gambie, le gouvernement dit avoir déjoué une tentative de coup d’Etat"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 10:50:56 +0100"
+                        ],
+                        "description": [
+                            "De rares témoignages ont fait état de mouvements de soldats autour du siège de la présidence dans le centre de Banjul mardi soir."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/afrique/article/2022/12/22/en-gambie-le-gouvernement-dit-avoir-dejoue-une-tentative-de-coup-d-etat_6155385_3212.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/afrique/article/2022/12/22/en-gambie-le-gouvernement-dit-avoir-dejoue-une-tentative-de-coup-d-etat_6155385_3212.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/37/0/1024/512/644/322/60/0/413d164_1671702099438-000-333n27u.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Sur un marché de Banjul, en décembre 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "MUHAMADOU BITTAYE / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Tse Chi Lop, accusé d’être un des plus grands narcotrafiquants d’Asie, a été extradé vers l’Australie"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 09:47:34 +0100"
+                        ],
+                        "description": [
+                            "Ce citoyen canadien d’origine chinoise est soupçonné de diriger l’immense cartel connu sous le nom de Sam Gor, important producteur et fournisseur mondial de méthamphétamines."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/international/article/2022/12/22/el-chapo-asiatique-le-baron-presume-de-la-drogue-en-asie-extrade-vers-l-australie_6155378_3210.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/international/article/2022/12/22/el-chapo-asiatique-le-baron-presume-de-la-drogue-en-asie-extrade-vers-l-australie_6155378_3210.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/425/0/7035/3517/644/322/60/0/1f31d3b_1671697617466-000-9cu63g.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Un transport sécurisé arrive au tribunal extra sécurisé de Rotterdam, le 22 juin 2021, avant l’audience sur l’extradition de Tse Chi Lop.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "ROBIN UTRECHT / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Volodymyr Zelensky ovationné au Congrès américain"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 09:29:05 +0100"
+                        ],
+                        "description": [
+                            "Le président ukrainien a tenu son premier discours à l’étranger depuis le début de la guerre en Ukraine."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/videos/video/2022/12/22/l-ukraine-est-vivante-le-president-ukrainien-ovationne-au-congres-americain_6155376_1669088.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/videos/video/2022/12/22/l-ukraine-est-vivante-le-president-ukrainien-ovationne-au-congres-americain_6155376_1669088.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/688/0/8256/4128/644/322/60/0/f497034_5065031-01-06.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le président ukrainien, Volodymyr Zelensky, a tenu son premier discours à l’étranger depuis le début de la guerre en Ukraine.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "JIM WATSON / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "La crise politique au Pérou révèle un pays ingouvernable"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 08:00:10 +0100"
+                        ],
+                        "description": [
+                            "Le président péruvien Pedro Castillo, qui a été destitué, est en prison après une tentative de coup d’Etat. Plus largement, c’est tout le système politique du pays qui dysfonctionne gravement, et depuis longtemps."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/idees/article/2022/12/22/la-crise-politique-au-perou-revele-un-pays-ingouvernable_6155370_3232.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/idees/article/2022/12/22/la-crise-politique-au-perou-revele-un-pays-ingouvernable_6155370_3232.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/21/432/0/5184/2592/644/322/60/0/b52259b_f8c673f05de34d0cbde76155a7ba9ae7-0-61f3d16f58e54cf9a066f6b2626cbc4e.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Des supporteurs du président péruvien destitué Pedro Castillo mainfestent dans la ville d’Ayacucho, le 20 décembre 2022. ",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Hugo Curotto / AP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "« Nous n’avons pas d’autre choix que d’augmenter les taux d’intérêt »"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 07:00:15 +0100"
+                        ],
+                        "description": [
+                            "Luis de Guindos, vice-président de la Banque centrale européenne, reconnaît que la zone euro entre en récession, et justifie cette hausse des taux par l’inflation."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/economie/article/2022/12/22/nous-n-avons-pas-d-autre-choix-que-d-augmenter-les-taux-d-interet_6155367_3234.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/economie/article/2022/12/22/nous-n-avons-pas-d-autre-choix-que-d-augmenter-les-taux-d-interet_6155367_3234.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/22/511/0/6130/3065/644/322/60/0/577be37_1671691283357-000-9v49jj.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Devant le siège de la BCE à Francfort.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "ANDRE PAIN / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sam Bankman-Fried, ancien PDG de la plate-forme de cryptomonnaies FTX, a été extradé vers les Etats-Unis"
+                        ],
+                        "pubDate": [
+                            "Thu, 22 Dec 2022 06:46:09 +0100"
+                        ],
+                        "description": [
+                            "Après la faillite de son entreprise, il doit comparaître devant une juge dans les prochaines heures. Deux autres personnes ont été inculpées."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/pixels/article/2022/12/22/l-ancien-patron-de-ftx-sam-bankman-fried-a-ete-extrade-vers-les-etats-unis_6155364_4408996.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/pixels/article/2022/12/22/l-ancien-patron-de-ftx-sam-bankman-fried-a-ete-extrade-vers-les-etats-unis_6155364_4408996.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/21/204/0/4577/2288/644/322/60/0/7d11f42_a4da054881f14db092095bc185b94e73-0-30e3d5691c544cc2b14c4c8f7777fd95.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le fondateur de FTX, Sam Bankman-Fried, escorté à la sortie du tribunal de Nassau, au Bahamas, après avoir donné son accord pour être extradé, le 21 décembre 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Rebecca Blackwell / AP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
