@@ -81,3 +81,4 @@ app.get('/', function(request, response) { //quand le path est vide => lien qui 
     response.render('index.ejs', dataToEJS); //fusion entre fichier template et les datas
 });
 
+//pour demarrer le serveur sur apiupadate json faut juste mettre : node .\APIUpdateJSON.js
